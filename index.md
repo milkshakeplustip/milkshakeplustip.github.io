@@ -1,11 +1,7 @@
 ---
-layout: archive
-permalink: /
-title: "Latest Posts"
+layout: home
+title: "Recent Posts"
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: typewriter.jpg
 ---
-
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
