@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: SBootstrap
 github_username:  milkshakeplustip
-facebook_username:  IronSummitMedia
+facebook_username:  
 
 # Build settings
 markdown: kramdown
