@@ -1,13 +1,13 @@
 # Site settings
 title: Human Population Genomics Lab
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: javier.blanco.93@gmail.com
 description: "About"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
+twitter_username: morestrada
 github_username:  milkshakeplustip
-facebook_username:  
+facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
