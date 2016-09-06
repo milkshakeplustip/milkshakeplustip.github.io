@@ -5,7 +5,7 @@ description: <body <p>Cinvestav, Mexico</i></p> <p><a href="http://www.langebio.
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="http://milkshakeplustip.github.io/b/">
+    
         <h2 class="post-title">            {{ post.title }}
         </h2>
         {% if post.subtitle %}
@@ -13,7 +13,7 @@ description: <body <p>Cinvestav, Mexico</i></p> <p><a href="http://www.langebio.
             {{ post.subtitle }}
         </h3>
         {% endif %}
-    </a>
+
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
