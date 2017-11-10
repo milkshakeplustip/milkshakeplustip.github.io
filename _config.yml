@@ -6,8 +6,8 @@ description: "About Us"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: morestrada
-github_username:  milkshakeplustip
-facebook_username:
+github_username:  
+facebook_username: MorenoLabLangebio
 
 # Build settings
 markdown: kramdown
