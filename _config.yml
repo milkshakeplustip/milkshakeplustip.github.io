@@ -1,7 +1,7 @@
 # Site settings
 title: Human Population Genomics Lab
-header-img: img/home-bg_1750.jpg
-email: javier.blanco.93@gmail.com
+header-img: img/home-bg_1750.jpg; height: 700px
+email: morenolab.langebio@gmail.com
 description: "About Us"
 baseurl: ""
 url: "www.morenolab.org"
